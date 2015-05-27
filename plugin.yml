@@ -1,0 +1,9 @@
+name: ReitzRPGCore
+main: com.paulreitz.reitzrpgcore.ReitzRPGCore
+version: 2.0
+author: Paully104
+description: ReitzRPG 2.0
+commands:
+        ReitzRPGCore:
+                    description: Used to access default player commands.
+permissions:
